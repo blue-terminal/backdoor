@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------   |  -----------------| 
-| 2025    |       ⏲️          | 
+| 2025:start    |       ⏲️          | 
 
 
 ## Reporting a Vulnerability
